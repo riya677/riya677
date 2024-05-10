@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya677&label=Profile%20views&color=0e75b6&style=flat" alt="riya677" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java and UX**
+- 🌱 I’m currently learning **DSA, Java, PHP and UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riya677](https://github.com/riya677)
 
